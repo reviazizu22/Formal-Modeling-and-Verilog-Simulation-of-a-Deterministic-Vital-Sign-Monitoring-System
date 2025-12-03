@@ -1,0 +1,14 @@
+C:\Users\ADVAN\Documents\EnvironmentalControlSystem\bin\Debug\net8.0\EnvironmentalControlSystem.exe
+C:\Users\ADVAN\Documents\EnvironmentalControlSystem\bin\Debug\net8.0\EnvironmentalControlSystem.deps.json
+C:\Users\ADVAN\Documents\EnvironmentalControlSystem\bin\Debug\net8.0\EnvironmentalControlSystem.runtimeconfig.json
+C:\Users\ADVAN\Documents\EnvironmentalControlSystem\bin\Debug\net8.0\EnvironmentalControlSystem.dll
+C:\Users\ADVAN\Documents\EnvironmentalControlSystem\bin\Debug\net8.0\EnvironmentalControlSystem.pdb
+C:\Users\ADVAN\Documents\EnvironmentalControlSystem\obj\Debug\net8.0\EnvironmentalControlSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADVAN\Documents\EnvironmentalControlSystem\obj\Debug\net8.0\EnvironmentalControlSystem.AssemblyInfoInputs.cache
+C:\Users\ADVAN\Documents\EnvironmentalControlSystem\obj\Debug\net8.0\EnvironmentalControlSystem.AssemblyInfo.cs
+C:\Users\ADVAN\Documents\EnvironmentalControlSystem\obj\Debug\net8.0\EnvironmentalControlSystem.csproj.CoreCompileInputs.cache
+C:\Users\ADVAN\Documents\EnvironmentalControlSystem\obj\Debug\net8.0\EnvironmentalControlSystem.dll
+C:\Users\ADVAN\Documents\EnvironmentalControlSystem\obj\Debug\net8.0\refint\EnvironmentalControlSystem.dll
+C:\Users\ADVAN\Documents\EnvironmentalControlSystem\obj\Debug\net8.0\EnvironmentalControlSystem.pdb
+C:\Users\ADVAN\Documents\EnvironmentalControlSystem\obj\Debug\net8.0\EnvironmentalControlSystem.genruntimeconfig.cache
+C:\Users\ADVAN\Documents\EnvironmentalControlSystem\obj\Debug\net8.0\ref\EnvironmentalControlSystem.dll

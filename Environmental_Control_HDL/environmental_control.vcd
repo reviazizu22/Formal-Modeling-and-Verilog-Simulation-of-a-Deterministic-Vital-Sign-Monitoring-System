@@ -1,0 +1,166 @@
+$date
+	Wed Dec 03 07:28:02 2025
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ps
+$end
+$scope module tb_environmental_control $end
+$var wire 1 ! Vibrator $end
+$var wire 1 " Selenoid_Valve $end
+$var wire 1 # Micro_Fan $end
+$var wire 1 $ LED $end
+$var wire 1 % Infuse_Pump $end
+$var wire 1 & Buzzer $end
+$var reg 1 ' B $end
+$var reg 1 ( H $end
+$var reg 1 ) O $end
+$var reg 1 * P $end
+$var reg 1 + R $end
+$var reg 1 , T $end
+$var reg 1 - clk $end
+$var reg 1 . reset $end
+$scope module uut $end
+$var wire 1 / A $end
+$var wire 1 ' B $end
+$var wire 1 0 C_Total $end
+$var wire 1 ( H $end
+$var wire 1 ) O $end
+$var wire 1 * P $end
+$var wire 1 + R $end
+$var wire 1 , T $end
+$var wire 1 - clk $end
+$var wire 1 . reset $end
+$var parameter 2 1 S0 $end
+$var parameter 2 2 S1 $end
+$var parameter 2 3 S2 $end
+$var reg 1 & Buzzer $end
+$var reg 1 % Infuse_Pump $end
+$var reg 1 $ LED $end
+$var reg 1 # Micro_Fan $end
+$var reg 1 " Selenoid_Valve $end
+$var reg 1 ! Vibrator $end
+$var reg 2 4 current_state [1:0] $end
+$var reg 2 5 next_state [1:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+b10 3
+b1 2
+b0 1
+$end
+#0
+$dumpvars
+b0 5
+b0 4
+x0
+x/
+1.
+0-
+x,
+x+
+x*
+x)
+x(
+x'
+x&
+x%
+x$
+x#
+x"
+x!
+$end
+#20000
+1-
+#40000
+0-
+#50000
+0.
+#60000
+1-
+#80000
+0-
+#100000
+1!
+1$
+0&
+b1 5
+1/
+00
+0%
+0"
+0#
+1-
+0'
+0+
+0,
+0)
+0*
+1(
+#120000
+0-
+#140000
+b1 4
+1-
+#160000
+0-
+#180000
+1&
+b10 5
+10
+1%
+1"
+1#
+1-
+1'
+1+
+1,
+1)
+1*
+#200000
+0-
+#220000
+b10 4
+1-
+#240000
+0-
+#260000
+0&
+b1 5
+00
+0%
+1-
+0'
+0*
+0(
+#280000
+0-
+#300000
+b1 4
+1-
+#320000
+0-
+#340000
+0!
+0$
+b0 5
+0/
+0"
+0#
+1-
+0+
+0,
+0)
+#360000
+0-
+#380000
+b0 4
+1-
+#400000
+0-
+#420000
+1-
